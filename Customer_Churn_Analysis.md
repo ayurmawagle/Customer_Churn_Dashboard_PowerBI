@@ -60,4 +60,4 @@ Developed using Power BI Desktop, incorporating:
 4. Geographical Trends:
 - California exhibits the highest churn rate among US states
 
-
+This customer churn analysis dashboard provides valuable insights into the factors driving customer attrition.
